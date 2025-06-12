@@ -19,7 +19,13 @@ body{
 
 .headre--sub-header {
     font-size: 21px;
-    color: rgb(189, 183, 183);
+    color: gray;
+}
+
+.foot {
+    text-align: right;
+    color: gray;
+    font-size: 20px;
 }
 /* call to action */
 .link--cta  {
