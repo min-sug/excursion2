@@ -11,6 +11,16 @@ body{
     color: white;
 }
 
+.header--secondary {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.headre--sub-header {
+    font-size: 21px;
+    color: rgb(189, 183, 183);
+}
 /* call to action */
 .link--cta  {
     font-size: 16px;
